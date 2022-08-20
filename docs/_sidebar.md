@@ -9,4 +9,5 @@
 
 
 * 工具的简单使用
-    * [docsify](useDocsify/docsify.md)
+    * [docsify](/tools/useDocsify/docsify.md)
+    * [Typora](/tools/Typora/Typora.md)
