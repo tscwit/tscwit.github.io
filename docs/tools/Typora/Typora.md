@@ -46,7 +46,7 @@
 
 ​	引用在**段落**里面
 
-​	引用的快捷键是"**Ctrl**"+"**Shift**"+"**Q**"
+​	引用的快捷键是" **Ctrl**"+"**Shift**"+"**Q**"
 
 ​	引用只是让视觉效果感觉不一样
 
@@ -58,4 +58,15 @@
 
 ​	代码块的快捷键是"**Ctrl**"+"Shift"+"K"
 
-​	
+## 进阶
+
+看视频:[进阶视频](https://www.bilibili.com/video/BV1Wo4y1d7nF?p=4&vd_source=e7c7931a8965b48dc1f71886f41959e9)
+
+链接:
+
+LaTex Math : https://www.caam.rice.edu/~heinken/latex/symbols.pdf
+
+- 序列图 : https://bramp.gitbub.io/js-sequence-diagrams
+- 流程图 : https://flowchart.js.org/
+- Mermaid : https://mermaid-js.github.io/mermaid/#/
+
